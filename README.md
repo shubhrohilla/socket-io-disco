@@ -1,6 +1,6 @@
 # Here lives socket.io based react disco componenets
 
-- Check example in the [example](https://github.com/shubhrohilla/socket-io-disco/tree/main/example) folder.
+- Check example in the [example](https://github.com/shubhrohilla/socket-io-disco/tree/master/example) folder.
 
 ---
 
